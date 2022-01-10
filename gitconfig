@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = takeshigs@gmail.com
+	name = Takeshi Shinohara
